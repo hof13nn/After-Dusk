@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a76a5ff7cfd1ff4b886552dc14964d2, type: 3}
+  m_Name: Pellington703_FX
+  m_EditorClassIdentifier: 
+  shootAudio: {fileID: 8300000, guid: 92d17451534a9324b99dd85514c3766e, type: 3}
+  dryFireAudio: {fileID: 8300000, guid: 22680be9d1fb5f74e8f7fd733711f7c1, type: 3}
+  reloadAudio: {fileID: 8300000, guid: 8c79c6abe7dbcbd45907bf17b3fb129a, type: 3}
+  retrieveAudio: {fileID: 8300000, guid: f5f356e217459ec4c8de4122c1c5a5ee, type: 3}
+  hasBrass: 0
+  ejectMagAudio: {fileID: 8300000, guid: 989c0c3c555549c49aa1a3db897d2f92, type: 3}
+  insertMagAudio: {fileID: 8300000, guid: 2709fe6813a38534dae6232614002ab8, type: 3}
+  backwardSlideAudio: {fileID: 8300000, guid: 6aafc34a506f4774086efe43230acddd, type: 3}
+  forwardSlideAudio: {fileID: 8300000, guid: c2a42c0a8c71743418e2ef9a477e0f9a, type: 3}

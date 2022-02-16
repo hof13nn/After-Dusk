@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24ef5ca570dd4b8c9017cd26da40b, type: 3}
+  m_Name: GalloSA12
+  m_EditorClassIdentifier: 
+  id: 0
+  type: 0
+  name: Gallo-SA12
+  amount: 1
+  maxAmount: 1
+  stackable: 0
+  itemIcon: {fileID: 21300000, guid: 568dab7f3d87e214baff1a9547b81c4b, type: 3}
+  itemPrefab: {fileID: 9036869715333801766, guid: 4df98234de3cdcf49b5d6ca94c03b421, type: 3}
+  pickupPrefab: {fileID: 353803995766174091, guid: 0be7417c34e75a746b2348650c4f72c8, type: 3}
+  weaponType: 1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4107565ee134f5e49923ec92c2fb92cc, type: 3}
+  m_Name: Glock19_FX
+  m_EditorClassIdentifier: 
+  shootAudio: {fileID: 8300000, guid: c68140d9497b69a4db62ec9f7cc06294, type: 3}
+  dryFireAudio: {fileID: 8300000, guid: 22680be9d1fb5f74e8f7fd733711f7c1, type: 3}
+  reloadAudio: {fileID: 8300000, guid: 0a1299e6d4bd14149a92323b4835f46f, type: 3}
+  retrieveAudio: {fileID: 8300000, guid: f5f356e217459ec4c8de4122c1c5a5ee, type: 3}
+  hasBrass: 1
+  bulletShellPrefab: {fileID: 54086054531486508, guid: b958c18df2178554eb33ac7d3b3bdff4, type: 3}
+  ejectMagAudio: {fileID: 8300000, guid: 6d0d43ca67e9d59459d023ecf662d622, type: 3}
+  insertMagAudio: {fileID: 8300000, guid: 649f71d5f9f49244fb6648d62566d881, type: 3}

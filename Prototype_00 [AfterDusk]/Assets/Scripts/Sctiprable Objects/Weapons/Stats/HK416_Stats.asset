@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffd94fe10d099142b1828d34a82bbb9, type: 3}
+  m_Name: HK416_Stats
+  m_EditorClassIdentifier: 
+  weaponClass: 0
+  weaponFireType: 0
+  weaponRange: 100
+  weaponDamage: 20
+  ammoInReserve: 35
+  maxAmmoInReserve: 500
+  ammoInMagazine: 0
+  maxAmmoInMagazine: 150
+  recoilDirection: {x: 1, y: -1}
+  adsSpeed: 5
+  adsCamPos: {x: 0.194, y: 0, z: 0.7}
+  hasScope: 0

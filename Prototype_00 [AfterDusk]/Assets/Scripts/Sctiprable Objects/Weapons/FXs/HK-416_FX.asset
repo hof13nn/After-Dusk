@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff36e843ae20a684587dde29ee93c245, type: 3}
+  m_Name: HK-416_FX
+  m_EditorClassIdentifier: 
+  shootAudio: {fileID: 8300000, guid: 80fcb1a77cae6c0498a4ab521473acb6, type: 3}
+  dryFireAudio: {fileID: 8300000, guid: 22680be9d1fb5f74e8f7fd733711f7c1, type: 3}
+  reloadAudio: {fileID: 8300000, guid: adc3400a823b48444bbdf591543f1cdc, type: 3}
+  retrieveAudio: {fileID: 8300000, guid: f5f356e217459ec4c8de4122c1c5a5ee, type: 3}
+  hasBrass: 1
+  bulletShellPrefab: {fileID: 54144068392577118, guid: 8ee2d16c98ea40f4ea336a16e938dae4, type: 3}
+  ejectMagAudio: {fileID: 8300000, guid: 05a51e063197fd1469bae48e78534280, type: 3}
+  insertMagAudio: {fileID: 8300000, guid: 2818f9036a3f74b4c8c1589ae2758054, type: 3}
